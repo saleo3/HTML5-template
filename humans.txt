@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Emir Salazar	Developer and Designer		@emirsalazar
+    Alison Salazar	Graphic Designer		@alison0216
+
+# THANKS
+	to the awesome web community
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Boilerplate, Less, sass, Normalize.css, jQuery, Modernizr, Amazium.
